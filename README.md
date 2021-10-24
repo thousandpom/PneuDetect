@@ -4,6 +4,7 @@
 ### Key Words:
 `NIH_ChestX-ray_Dataset`, `Object_Dection`, `Keras`, `Image_Augmentation`, `Transfer_Learning`, `DICOM`, `Pneumonia`, `FDA_Software_Validation`
 
+-------
 ## Project Overview
 The project consists of four parts:
 - Exploratory Data Analysis of ChestX-Ray8 dataset
